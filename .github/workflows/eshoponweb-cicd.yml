@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 77fef2fe-fc5a-4e01-b8d6-3c85713778af
-  WEBAPP-NAME: az400-webapp-demo
+  WEBAPP-NAME: az400-webapp-morgayle
 
 
 jobs:
